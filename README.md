@@ -45,6 +45,9 @@ Next run `ruby bin/main.rb`. This command tell ruby to run our `main.rb` file. Y
 
 ## **ENJOY!**
 
+### Potential Future Features
+* Make the game render in browser
+
 # Authors
 
 <ul>
